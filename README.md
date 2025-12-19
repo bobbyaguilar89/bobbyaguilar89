@@ -1,7 +1,7 @@
 ## Hi there my name is bobby aguilar an <a href="https://linkedin.com/in/bobbyaguilar89">IT Professional</a>☺</h1><h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>osTicket (Help Desk Ticketing System)</b>
-  - [osTicket: Prerequisites and Installation](https://github.com/bobbyaguilar89/osticket-prereqs)
+  - [osTicket: Prerequisites and Installation](https://github.com/bobbyaguilar89/Ticket-Lifecycle-Intake-Through-Resolution
   - [osTicket: Post-Installation Configuration](https://github.com/bobbyaguilar89/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/bobbyaguilar89/ticket-lifecycle)
 - <b>Microsoft Azure</b>
